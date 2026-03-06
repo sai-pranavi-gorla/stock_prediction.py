@@ -1,4 +1,5 @@
 Stock Price Prediction using Machine Learning 📈
+
 📌 Project Description
 
 This project predicts stock prices using Machine Learning in Python.
